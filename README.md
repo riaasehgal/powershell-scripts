@@ -1,4 +1,4 @@
-# PowerShell Scripts Repository – Lab1 Monitoring
+# PowerShell Scripts Repository For Monitoring
 
 This repository contains **PowerShell scripts developed** as part of the **Windows Administration** course. These scripts demonstrate **system resource monitoring**, **security event tracking**, and **automation of administrative tasks** using PowerShell.
 
